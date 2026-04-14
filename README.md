@@ -18,10 +18,20 @@
 ### 📊 Data Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ## 📌 Featured Projects
 
@@ -35,8 +45,6 @@
 - GitHub: (https://github.com/stephenomengo)
 - 📧 Email: (stephenomengo01@gmail.com)
 - 💼 LinkedIn: (www.linkedin.com/in/stephen-omengo-645675365)
-
-
 
 <!--
 **stephenomengo/stephenomengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
