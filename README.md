@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Stephen Omengo</h1>
 <h3 align="center">📊 Data Analyst | Power BI Specialist | Turning Data Into Insights</h3>
