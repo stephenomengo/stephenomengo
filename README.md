@@ -42,7 +42,6 @@
 .📈 Excel Analytics Project – Data cleaning and visualization using Excel
 
 ## 🌐 Connect With Me
-- GitHub: (https://github.com/stephenomengo)
 - 📧 Email: (stephenomengo01@gmail.com)
 - 💼 LinkedIn: (www.linkedin.com/in/stephen-omengo-645675365)
 - ✍️ Dev.to: [stephenomengo](https://dev.to/stephenomengo)
