@@ -45,6 +45,7 @@
 - GitHub: (https://github.com/stephenomengo)
 - 📧 Email: (stephenomengo01@gmail.com)
 - 💼 LinkedIn: (www.linkedin.com/in/stephen-omengo-645675365)
+- ✍️ Dev.to: [stephenomengo](https://dev.to/stephenomengo)
 
 <!--
 **stephenomengo/stephenomengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
