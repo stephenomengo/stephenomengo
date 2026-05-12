@@ -7,6 +7,10 @@
 ## 🚀 About Me
 - 💻 Data Analyst | Power BI Enthusiast
 - 📊 Passionate about turning data into insights
+
+- ## 🎓 Education
+- Bachelor of Applied Science (BASc), Computer Science  
+  Jomo Kenyatta University of Agriculture and Technology
 - 🏫 Currently learning at @LuxDevHQ
 
 ## 🚀 Tech Stack
