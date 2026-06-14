@@ -18,6 +18,9 @@
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 📊 Data Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
@@ -46,6 +49,11 @@
 .📈 Excel Analytics Project – Data cleaning and visualization using Excel
 
 .🐍 LuxDev Python Projects – A collection of Python-based data analytics projects focusing on real-world datasets, including data cleaning, exploratory data analysis (EDA), automation scripts, and visualization using Pandas, NumPy, and Matplotlib.
+
+.🎫 FIFA Ticket Hub
+A web-based platform (demo) designed to simplify FIFA World Cup ticket discovery and booking.
+
+https://github.com/stephenomengo/fifa-ticket-hub
 
 ## 🌐 Connect With Me
 - 📧 Email: (stephenomengo01@gmail.com)
