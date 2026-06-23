@@ -53,7 +53,7 @@
 .🎫 FIFA Ticket Hub
 A web-based platform (demo) designed to simplify FIFA World Cup ticket discovery and booking.
 
-https://github.com/stephenomengo/fifa-ticket-hub
+https://fifa-ticket-hub-q2sx.onrender.com/
 
 ## 🌐 Connect With Me
 - 📧 Email: (stephenomengo01@gmail.com)
