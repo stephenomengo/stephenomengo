@@ -50,7 +50,7 @@
 
 .🐍 LuxDev Python Projects – A collection of Python-based data analytics projects focusing on real-world datasets, including data cleaning, exploratory data analysis (EDA), automation scripts, and visualization using Pandas, NumPy, and Matplotlib.
 
-STERNBLATT — a single-page digital magazine for Mercedes-Benz culture: news, history, and design writing, structured like a bound quarterly booklet, built with vanilla HTML/CSS/JS (no framework), client-side hash routing for individual article pages, and a password-gated publishing form for adding content without editing markup and deployed on GitHub Pages.
+.STERNBLATT — a single-page digital magazine for Mercedes-Benz culture: news, history, and design writing, structured like a bound quarterly booklet, built with vanilla HTML/CSS/JS (no framework), client-side hash routing for individual article pages, and a password-gated publishing form for adding content without editing markup and deployed on GitHub Pages.
 
 🔗 Live site : https://stephenomengo.github.io/The-Sternblatt/
 
