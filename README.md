@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Stephen Omengo</h1>
-<h3 align="center">📊 Data Analyst | Power BI Specialist | Turning Data Into Insights</h3>
+<h3 align="center">📊 Data Analyst | Full-Stack Developer | Python, SQL, Flask, Power BI |</h3>
 
 
 ## 🚀 About Me
