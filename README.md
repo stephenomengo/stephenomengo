@@ -7,6 +7,10 @@
 ## 🚀 About Me
 - 💻 Data Analyst | Power BI Enthusiast
 - 📊 Passionate about turning data into insights
+- Founder: TaurusHub- This  is a client management platform built for businesses that manage
+ad campaigns, websites, and WhatsApp chatbots on behalf of their clients.
+It replaces scattered spreadsheets and manual check-ins with a single
+real-time system for tracking clients, billing, and service delivery.
 
 ## 🎓 Education
 - Bachelor of Applied Science (BASc), Computer Science  
@@ -41,12 +45,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ## 📌 Featured Projects
-
-.📊 Sales Dashboard (Power BI) – Interactive dashboard showing trends and KPIs
-
-.🗄️ SQL Data Analysis Project – Queries and insights from structured datasets
-
-.📈 Excel Analytics Project – Data cleaning and visualization using Excel
 
 .🐍 LuxDev Python Projects – A collection of Python-based data analytics projects focusing on real-world datasets, including data cleaning, exploratory data analysis (EDA), automation scripts, and visualization using Pandas, NumPy, and Matplotlib.
 
