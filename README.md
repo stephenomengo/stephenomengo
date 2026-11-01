@@ -44,10 +44,6 @@ real-time system for tracking clients, billing, and service delivery.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-## 📌 Featured Projects
-
-.🐍 LuxDev Python Projects – A collection of Python-based data analytics projects focusing on real-world datasets, including data cleaning, exploratory data analysis (EDA), automation scripts, and visualization using Pandas, NumPy, and Matplotlib.
-
 ## 🌐 Connect With Me
 - 📧 Email: (stephenomengo01@gmail.com)
 - 💼 LinkedIn: (www.linkedin.com/in/stephen-omengo-645675365)
