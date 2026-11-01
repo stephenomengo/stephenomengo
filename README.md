@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 💻 Data Analyst | Power BI Enthusiast
 - 📊 Passionate about turning data into insights
-- Founder: TaurusHub- This  is a client management platform built for businesses that manage
+- 👨‍💻 Founder of TaurusHub- This  is a client management platform built for businesses that manage
 ad campaigns, websites, and WhatsApp chatbots on behalf of their clients.
 It replaces scattered spreadsheets and manual check-ins with a single
 real-time system for tracking clients, billing, and service delivery.
