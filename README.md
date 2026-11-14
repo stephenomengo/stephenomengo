@@ -15,7 +15,7 @@ real-time system for tracking clients, billing, and service delivery.
 ## 🎓 Education
 - Bachelor of Applied Science (BASc), Computer Science  
   Jomo Kenyatta University of Agriculture and Technology
-- 🏫 Currently learning at @LuxDevHQ
+- 🏫 Data Analytics, Data Science & AI Certification @LuxDevHQ
 
 ## 🚀 Tech Stack
 
